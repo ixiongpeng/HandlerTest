@@ -64,3 +64,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
     }
 }
+
+
+//Loop.prepaer Loop.loop()
+//参考http://blog.csdn.net/iispring/article/details/47115879
